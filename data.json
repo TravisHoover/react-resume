@@ -1,0 +1,47 @@
+{
+  "NameAndTitle": {
+    "name": "Travis Hoover",
+    "title": "Software Developer"
+  },
+  "ContactInfo": {
+    "address": "2382 Oak Hill Drive, Murfreesboro TN 37130",
+    "phone_number": "931.205.3666",
+    "email_address": "traviskhoover@gmail.com",
+    "linkedIn_url": "https://www.linkedin.com/in/travis-hoover",
+    "github_url": "https://github.com/TravisHoover"
+  },
+  "About": {
+    "title": "About"
+  },
+  "Education": {
+    "title": "Education",
+    "university": "Middle Tennessee State University",
+    "graduation_date": "December 2017",
+    "degree": "Bachelor of Science in Professional Computer Science"
+  },
+  "Skills": {
+    "title": "Skills",
+    "skills": [
+      "Proficient in Javascript and Node.js",
+      "Familiar with .NET framework",
+      "Proficient with Microsoft Azure services",
+      "Proficient with cloud based architecture",
+      "Experience with Redis caching",
+      "Experience with MySQL and MS SQL",
+      "Experienced in Angular, React, and React Native",
+      "Proficient in Linux environments",
+      "Proficient in git based source control",
+      "Experience with Jenkins automation server and Travis CI",
+      "Experience with gulp.js",
+      "Knowledge of C/C++",
+      "Experience with Selenium WebDriver, Nightwatch.js, HTML, CSS, and Sass",
+      "Network configuration",
+      "Oriented mindset of providing an exceptional experience for clients",
+      "Strong desire and aptitude to learn new job related skills",
+      "Able to multi-task in high stress situations"
+    ]
+  },
+  "Experience": {
+    "title": "Experience"
+  }
+}

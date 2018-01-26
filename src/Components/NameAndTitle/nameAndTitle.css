@@ -1,0 +1,19 @@
+.name {
+    font-size: 1.8em;
+    font-weight: 600;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.title {
+    font-size: 1.5em;
+    padding-bottom: 25px;
+}
+
+.background {
+    background: cadetblue;
+    border-radius: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}

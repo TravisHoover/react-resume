@@ -2,7 +2,7 @@ import React from 'react';
 import NameAndTitle from '../NameAndTitle/nameAndTitle';
 
 const Header = () => (
-	<NameAndTitle/>
+		<NameAndTitle/>
 );
 
 export default Header;

@@ -1,0 +1,16 @@
+.list {
+    display: table;
+}
+
+.skill-title {
+    font-size: 1.2em;
+    padding-top: 25px;
+}
+
+.skill-body {
+    background: gray;
+    border-radius: 25px;
+    padding-bottom: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}

@@ -1,12 +1,13 @@
 import React from 'react';
 import data from '../../data';
+import './nameAndTitle.css';
 
 const NameAndTitle = () => (
-	<div>
-		<div>
+	<div className="background">
+		<div className="name">
 		<span>{data.NameAndTitle.name}</span>
 		</div>
-		<div>
+		<div className="title">
 		<span>{data.NameAndTitle.title}</span>
 		</div>
 	</div>

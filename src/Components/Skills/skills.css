@@ -1,10 +1,11 @@
-.list {
+.skill-list {
     display: table;
     font-weight: 600;
+    margin-left: 40px;
 }
 
 .skill-title {
-    font-size: 1.5em;
+    font-size: 1.6em;
     padding-top: 25px;
     font-weight: 800;
 }

@@ -17,27 +17,24 @@
     "title": "Education",
     "university": "Middle Tennessee State University",
     "graduation_date": "December 2017",
-    "degree": "Bachelor of Science in Professional Computer Science"
+    "degree": "Bachelor of Science in Computer Science"
   },
   "Skills": {
     "title": "Skills",
     "skills": [
-      "Proficient in Javascript and Node.js",
-      "Experienced in React, and React Native",
+      "Javascript and Node.js",
+      "React and React Native",
+      "Angular 1.x",
       "Familiar with .NET framework",
-      "Proficient with Microsoft Azure services",
+      "Microsoft Azure services",
       "Proficient with cloud based architecture",
-      "Experience with Redis caching",
-      "Experience with MySQL and MSSQL",
-      "Experience with Angular 1.x",
-      "Proficient in Linux environments",
+      "Redis caching",
+      "MySQL and MSSQL",
       "Proficient in git based source control",
       "Experience with Jenkins and Travis CI",
-      "Experience with gulp.js",
       "Knowledge of C/C++",
-      "Experience with Selenium WebDriver, Nightwatch.js",
-      "Network configuration",
-      "Strong desire and aptitude to learn new job related skills",
+      "Selenium WebDriver, Nightwatch.js",
+      "Strong desire to learn new job related skills",
       "Able to multi-task in high stress situations"
     ]
   },

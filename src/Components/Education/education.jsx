@@ -5,13 +5,13 @@ import './education.css';
 const Education = () => (
 	<div className="education-background">
 			<ul className="education-title">{data.Education.title}</ul>
-				<li className="list">
+				<li className="education-list">
 					{data.Education.degree}
 				</li>
-				<li className="list">
+				<li className="education-list">
 					{data.Education.university}
 				</li>
-				<li className="list">
+				<li className="education-list">
 					{data.Education.graduation_date}
 				</li>
 	</div>

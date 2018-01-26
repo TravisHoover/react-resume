@@ -5,7 +5,7 @@ import './skills.css';
 const Skills = () => (
 	<div className="skill-body">
 		<ul className="skill-title">{data.Skills.title}</ul>
-		{data.Skills.skills.map(skill => <li className="list">{skill}</li>)}
+		{data.Skills.skills.map(skill => <li className="skill-list">{skill}</li>)}
 	</div>
 );
 

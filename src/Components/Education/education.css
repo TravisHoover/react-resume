@@ -1,13 +1,13 @@
-.list {
-    padding-left: 40px;
+.education-list {
+    margin-left: 40px;
     display: table;
-    margin-right: 30px;
+    font-weight: 600;
 }
 
 .education-title {
-    font-size: 1.5em;
+    font-size: 1.6em;
     padding-top: 25px;
-    font-weight: 700;
+    font-weight: 800;
 }
 
 .education-background {

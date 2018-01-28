@@ -7,9 +7,9 @@ const Education = (props) => {
 		<li className="education-list">
 			{props.education.degree}
 		</li>
-		<li className="education-list">
+		<a className="education-list" href={props.education.url} style={{color: "black"}}>
 			{props.education.university}
-		</li>
+		</a>
 		<li className="education-list">
 			{props.education.graduation_date}
 		</li>

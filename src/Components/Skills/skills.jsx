@@ -1,12 +1,15 @@
 import React from 'react';
-import data from '../../data';
 import './skills.css';
 
-const Skills = () => (
-	<div className="skill-body">
-		<ul className="skill-title">{data.Skills.title}</ul>
-		{data.Skills.skills.map(skill => <li className="skill-list">{skill}</li>)}
+const Skills = (props) => {
+	return <div className="skill-body">
+		<ul className="skill-title">{props.skills.title}</ul>
+		{props.skills.skill_list.map(skill =>
+			<li key={skill.toString()} className="skill-list">
+			{skill}
+			</li>)
+		}
 	</div>
-);
+};
 
 export default Skills;

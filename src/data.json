@@ -21,7 +21,7 @@
   },
   "Skills": {
     "title": "Skills",
-    "skills": [
+    "skill_list": [
       "Javascript and Node.js",
       "React and React Native",
       "Angular 1.x",

@@ -5,6 +5,7 @@ import data from './data';
 import logo from './logo.svg';
 import github from './github.svg'
 import linkedin from './linkedin.svg';
+import twitter from './twitter.svg';
 import './App.css';
 
 class App extends Component {
@@ -22,6 +23,9 @@ class App extends Component {
             <a href={data.ContactInfo.linkedIn_url}>
               <img src={linkedin} className="App-altLogo" alt="linkedIn"/>
             </a>
+	          <a href={data.ContactInfo.twitter_url}>
+		          <img src={twitter} className="App-altLogo" alt="twitter"/>
+	          </a>
           </div>
         </header>
         <Header className="App-intro"/>

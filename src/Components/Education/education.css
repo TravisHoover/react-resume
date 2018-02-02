@@ -2,6 +2,7 @@
     margin-left: 40px;
     display: table;
     font-weight: 600;
+    margin-top: 4px;
 }
 
 .education-title {
@@ -14,6 +15,5 @@
     background: steelblue;
     border-radius: 25px;
     padding-bottom: 25px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin: 5px 5px 5px 5px;
 }

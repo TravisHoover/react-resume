@@ -7,6 +7,9 @@ import github from './github.svg'
 import linkedin from './linkedin.svg';
 import twitter from './twitter.svg';
 import './App.css';
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
+import getMuiTheme from 'material-ui/styles/getMuiTheme';
+import darkBaseTheme from 'material-ui/styles/baseThemes/darkBaseTheme';
 
 class App extends Component {
   render() {
@@ -28,8 +31,10 @@ class App extends Component {
 	          </a>
           </div>
         </header>
-        <Header className="App-intro"/>
-        <Body className="App-intro"/>
+        <MuiThemeProvider muiTheme={getMuiTheme(darkBaseTheme)}>
+          <Header className="App-intro"/>
+          <Body className="App-intro"/>
+        </MuiThemeProvider>
       </div>
     );
   }

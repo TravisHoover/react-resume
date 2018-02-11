@@ -1,7 +1,8 @@
 {
   "NameAndTitle": {
     "name": "Travis Hoover",
-    "title": "Software Developer"
+    "title": "Software Developer",
+    "summary": "I am a young professional working full time at Smartvue Corporation in Nashville, TN with a Bachelor's of Science in Professional Computer Science. I am a fast learner and have moved quickly through the technology industry. Concepts come quickly to me and I am always eager to learn more and improve myself."
   },
   "ContactInfo": {
     "address": "2382 Oak Hill Drive, Murfreesboro TN 37130",
@@ -36,8 +37,7 @@
       "Experience with Jenkins and Travis CI",
       "Knowledge of C/C++",
       "Selenium WebDriver, Nightwatch.js",
-      "Strong desire to learn new job related skills",
-      "Able to multi-task in high stress situations"
+      "Strong desire to learn new job related skills"
     ]
   },
   "Experience": {

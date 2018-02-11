@@ -6,6 +6,7 @@
 }
 
 .education-title {
+    text-decoration: underline;
     font-size: 1.6em;
     padding-top: 25px;
     font-weight: 800;
